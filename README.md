@@ -33,7 +33,7 @@ It's a memory game built with an Arduino Uno, four LEDs, and four push buttons. 
 | Blue LED | 1 |
 | Yellow LED | 1 |
 | Push buttons | 4 |
-| 220Ω resistors | 4 |
+| 220 ohms resistors | 4 |
 | Small Breadboard | 1 |
 | Jumper wires | as needed |
 | USB cable | 1 |
